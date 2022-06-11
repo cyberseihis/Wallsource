@@ -31,7 +31,6 @@ class Moderator:
         return Weight(self.wallpaperEv + otherWallEv.wallpapersEv)
 
 
-
     def getSupportTicketName(self, SupportTicketName:str):
         return self.SupportTicketName
 
